@@ -1,14 +1,8 @@
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
+# Auto Clicker
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> This COULD get you banned from games. Super low chance for "games" like `Roblox` but never zero.
+>
+> but...
+>
+> > [!NOTE]
+> idfc what u do with this thing bro
